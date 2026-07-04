@@ -19,3 +19,29 @@ A alta rotatividade destrói a produtividade por três fatores principais:
 Os dados de produção física e perfil de postos ocupados foram consolidados a partir dos informativos econômicos e relatórios setoriais do **Observatório FIESC para o Polo Têxtil de SC (2024-2025)**. 
 
 A escolha dessa base de dados garantiu o alinhamento com indicadores reais de mercado da indústria catarinense, mapeando de forma fidedigna o impacto sofrido no volume produzido e na retenção de pessoal nas mesorregiões do Vale do Itajaí e Norte Catarinense.
+
+## Análise dos Resultados e Insights Industriais
+
+A análise cruzada das séries temporais geradas revela um cenário de forte estresse operacional para o parque fabril têxtil e de confecção catarinense no biênio 2024-2025:
+
+### 1. A Correlação Direta do Sufocamento Operacional
+Os gráficos demonstram que a linha de **Índice de Produção Física** e a linha de **Pessoal Ocupado** correm em sentido descendente quase simétrico. Sob a ótica da Engenharia de Produção, isso desfaz o mito de que o setor passa por um processo amplo de automação tecnológica (onde a produção subiria ou se manteria estável enquanto o número de funcionários caía). A realidade empírica mostra que a perda de braços no chão de fábrica está limitando diretamente a capacidade produtiva das indústrias locais.
+
+### 2. O Impacto no Planejamento e Controle da Produção (PCP)
+Esse encolhimento do fator trabalho gera um gargalo crônico de capacidade. Com o turnover elevado e o apagão de mão de obra (costura, fiação e acabamento), as confecções perdem flexibilidade tática. O lead time (tempo de entrega) aumenta e a eficiência global dos equipamentos (OEE) despenca devido a postos de trabalho desocupados. A indústria catarinense fica vulnerável por não conseguir responder rapidamente às demandas sazonais de coleções.
+
+### 3. Conclusão Estratégica: A Fricção da Competitividade
+O recuo simultâneo das duas linhas valida a hipótese inicial da dor do setor: as margens espremidas pela concorrência das importações asiáticas impedem que as indústrias ofereçam salários de admissão mais competitivos para reter seus talentos. O resultado é um ciclo vicioso de rotatividade severa que destrói a produtividade interna justamente quando o setor mais precisa de eficiência para competir com o mercado externo.
+## Análise dos Resultados e Insights Industriais
+
+A análise cruzada das séries temporais geradas revela um cenário de forte estresse operacional para o parque fabril têxtil e de confecção catarinense no biênio 2024-2025:
+
+### 1. A Correlação Direta do Sufocamento Operacional
+Os gráficos demonstram que a linha de **Índice de Produção Física** e a linha de **Pessoal Ocupado** correm em sentido descendente quase simétrico. Sob a ótica da Engenharia de Produção, isso desfaz o mito de que o setor passa por um processo amplo de automação tecnológica (onde a produção subiria ou se manteria estável enquanto o número de funcionários caía). A realidade empírica mostra que a perda de braços no chão de fábrica está limitando diretamente a capacidade produtiva das indústrias locais.
+
+### 2. O Impacto no Planejamento e Controle da Produção (PCP)
+Esse encolhimento do fator trabalho gera um gargalo crônico de capacidade. Com o turnover elevado e o apagão de mão de obra (costura, fiação e acabamento), as confecções perdem flexibilidade tática. O lead time (tempo de entrega) aumenta e a eficiência global dos equipamentos (OEE) despenca devido a postos de trabalho desocupados. A indústria catarinense fica vulnerável por não conseguir responder rapidamente às demandas sazonais de coleções.
+
+### 3. Conclusão Estratégica: A Fricção da Competitividade
+O recuo simultâneo das duas linhas valida a hipótese inicial da dor do setor: as margens espremidas pela concorrência das importações asiáticas impedem que as indústrias ofereçam salários de admissão mais competitivos para reter seus talentos. O resultado é um ciclo vicioso de rotatividade severa que destrói a produtividade interna justamente quando o setor mais precisa de eficiência para competir com o mercado externo.
+
